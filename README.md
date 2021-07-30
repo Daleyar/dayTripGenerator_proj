@@ -1,0 +1,1 @@
+# dayTripGenerator_proj
